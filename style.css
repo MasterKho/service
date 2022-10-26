@@ -14,8 +14,14 @@ background-color: #F2F2F2;
     height: 72px;
     width: 240px;
     border-radius: 6px;
-
 }
+h3{
+    width: 1120px;
+    height: 56px;
+    background: linear-gradient(270deg, #F8F8F8 0%, #FFFFFF 98.61%);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
 .img{
     width: 200px;
     height: 30px;
