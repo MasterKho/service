@@ -2,6 +2,11 @@ html{
 background: #F2F2F2;
 }
 
+.main{
+    height: 398px;
+    width: 1120px;
+    
+}
 
 .container{
 display: flex;
