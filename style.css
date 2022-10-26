@@ -9,7 +9,7 @@ background: #F2F2F2;
 }
 
 .container{
-float: inline-start;
+align-items: flex-start;
 overflow: hidden;
 width: 1120px;
 height: 398px;
