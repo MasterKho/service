@@ -5,7 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-
+    <script>
+      $(document).ready(function () {
+        $(".container").click(function () {
+          $(this).toggleClass("expand");
+        });
+      });
+    </script>
     <title>Service Software</title>
   </head>
   <body>
@@ -65,13 +71,6 @@
         Apple
         <button class="button">V</button>
       </div>
-      <script>
-        $(document).ready(function () {
-          $(".container").click(function () {
-            $(this).toggleClass("expand");
-          });
-        });
-      </script>
     </div>
   </body>
 </html>
