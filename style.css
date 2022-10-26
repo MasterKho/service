@@ -5,6 +5,7 @@ height: 398px;
 }
 
 .soft{
+display: flex;
 width: 240px;
 height: 72px;
 }
