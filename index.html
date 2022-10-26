@@ -65,13 +65,13 @@
         Apple
         <button class="button">V</button>
       </div>
+      <script>
+        $(document).ready(function () {
+          $(".container").click(function () {
+            $(this).toggleClass("expand");
+          });
+        });
+      </script>
     </div>
   </body>
-  <script>
-    $(document).ready(function () {
-      $(".container").click(function () {
-        $(this).toggleClass("expand");
-      });
-    });
-  </script>
 </html>
