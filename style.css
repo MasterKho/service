@@ -6,9 +6,9 @@ background-color: #F2F2F2;
 }
 
 .soft{
-flex-wrap: wrap;
-width: 240px;
-height: 72px;
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    border-radius: 6px
 }
 .img{
     width: 200px;
