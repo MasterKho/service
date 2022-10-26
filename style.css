@@ -9,7 +9,11 @@ background-color: #F2F2F2;
     flex-wrap: wrap;
     background: #FFFFFF;
     border: 1px solid #EAEAEA;
-    border-radius: 6px
+    border-radius: 6px;
+    height: 72px;
+    width: 240px;
+    border-radius: 6px;
+
 }
 .img{
     width: 200px;
