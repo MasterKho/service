@@ -9,10 +9,8 @@ background: #F2F2F2;
 }
 
 .container{
-display: flex;
-flex-wrap: wrap;
+float: left;
 overflow: hidden;
-justify-content:space-around;
 width: 1120px;
 height: 398px;
 background-color: #f7f7f7;
