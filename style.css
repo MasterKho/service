@@ -1,12 +1,12 @@
 .container{
 display: flex;
+flex-wrap: wrap;
 width: 1120px;
 height: 398px;
 background-color: #F2F2F2;
 }
 
 .soft{
-    flex-wrap: wrap;
     background: #FFFFFF;
     border: 1px solid #EAEAEA;
     border-radius: 6px;
