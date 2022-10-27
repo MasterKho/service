@@ -6,6 +6,7 @@ background: #F2F2F2;
     height: 72px;
     width: 240px;
     margin-left: 32px;
+    margin-bottom: 16px;
     background: #FFFFFF;
     border: 1px solid #EAEAEA;
     border-radius: 6px;
@@ -15,6 +16,8 @@ background: #F2F2F2;
 .container{
 width: 1120px;
 height: 398px;
+margin: 0;
+padding: 0;
 background: #f7f7f7;
 }
 
