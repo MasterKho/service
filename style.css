@@ -2,6 +2,19 @@ html{
 background: #F2F2F2;
 }
 
+.item{
+    height: 72px;
+    width: 240px;
+    border-radius: 6px;
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    border-radius: 6px;
+}
+
+
+
+
+/*
 .row{
 overflow: hidden;
 width: 1120px;
@@ -24,3 +37,4 @@ float: left;
     width: 200px;
     height: 30px;
 }
+*/
