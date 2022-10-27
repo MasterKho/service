@@ -1,6 +1,4 @@
 html{
-    margin: 0;
-    padding: 0;
 background: #F2F2F2;
 }
 
@@ -18,8 +16,7 @@ background: #F2F2F2;
 .container{
 width: 1120px;
 height: 398px;
-margin: 0;
-padding: 0;
+margin-left: 0px;
 background: #f7f7f7;
 }
 
