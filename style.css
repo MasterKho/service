@@ -12,7 +12,11 @@ background: #F2F2F2;
     float: left;
 }
 
-
+.container{
+width: 1120px;
+height: 398px;
+background: #f7f7f7;
+}
 
 
 /*
