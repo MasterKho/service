@@ -18,6 +18,25 @@ height: 398px;
 background: #f7f7f7;
 }
 
+.wrapper{
+    position: absolute;
+    height: 24px;
+    left: 2.85%;
+    right: 66.99%;
+    top: calc(50% - 24px/2 - 178px);
+    font-family: 'TT Lakes';
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    text-transform: uppercase;
+    color: #7E7E82;
+}
+
+
+
+
+
+
 
 /*
 .row{
