@@ -1,3 +1,4 @@
+/*
 $(document).ready(function() {
   $(".container").click(function() {
     if ($("#more").is(":hidden")) {
@@ -8,4 +9,7 @@ $(document).ready(function() {
   });
 });
 
- 
+ */
+
+var h = "Ремонт техники различных брендов";
+console.log(h);
