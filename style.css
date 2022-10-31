@@ -58,7 +58,7 @@ h3{
     }
   }
 
-  @media (max-width: 330px) {
+  @media (max-width: 530px) {
     .item:nth-child(1) {
       display: none;
     }
